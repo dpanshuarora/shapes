@@ -1,0 +1,13 @@
+### Java ###
+# Compiled class file
+**.class
+
+### macOS ###
+**.DS_Store
+
+### gradle ###
+.gradle/
+build/
+
+.idea/
+*.iml
